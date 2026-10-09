@@ -1,0 +1,9 @@
+title: "CasaPerfecto privacy policy"
+description: "Public, version-controlled privacy policy for CasaPerfecto."
+theme: jekyll-theme-primer
+markdown: kramdown
+exclude:
+  - README.md
+  - PRIVACY_POLICY.md
+  - DATA_MAPPING.md
+  - LICENSE
